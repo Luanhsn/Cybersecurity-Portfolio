@@ -7,7 +7,7 @@ Projekte im Bereich IT-Security und Netzwerk.
 ### 1. Netzwerkstruktur & Segmentierung
 Aufbau eines segmentierten Unternehmensnetzwerks mit VLAN, 
 DHCP, ACL, SSH und Sticky MAC in Cisco Packet Tracer.
-📄 [Zum Dokument](Netzwerk_Bewerbung.pdf)
+📄 [Zum Dokument](SOC_Lab_Netzwerk_Segmentierung.pdf)
 
 ### 2. SSH Brute-Force Detection
 Simulation eines SSH-Brute-Force-Angriffs (MITRE T1110.001) 
